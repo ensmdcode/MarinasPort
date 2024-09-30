@@ -1,0 +1,28 @@
+<html>
+<head> <title> Marinas Portfolio </title> </head>
+<body bgcolor="#000000">
+<h3 align="center" style="background-color:#333333; font-family:Impact; font-size:36; color:Cyan; text-align:center;">
+ <b>O--------| ICT/TLE grade 9 portfolio |--------O </b>
+ </h3>
+<table border="12" cellspacing="8px" bordercolor="#333333" width="1320px" height="40px" align="center" bgcolor="#000000">
+<tr bgcolor="#333333" style="font-size:24; font-family:Garamond; color:cyan;">
+<th> <a href="ICT Portfolio Homepage.html" style="color:cyan;"> <b> Home </b> </a> </th> 
+<th> <a href="Activities.html" style="color:cyan;" <b> Activities </b> </th>
+<th> <a href="About me.html" style="color:cyan;"> <b> About me </b> </a> </th>
+<th> <a href="Reflection page.html" style="color:cyan;"> <b> Reflection </b> </a> </th>
+ </tr>
+</table>
+<table align="center">
+<tr> <th> <img src="Suprised.JPEG" alt="suprised emoji"> </th> <th> <img src="Pirt.JPG" alt="Portfolio" width="400px"></th><th> <img src="Images.JPEG" alt="The Dog"> </th> <th> <img src="Schoked.JPEG"> </th> </tr> </table>
+<h1 style="font-family:Garamond; color:cyan;" align="left"> content </h1>
+<p style="color:cyan; Font-family:Garamond;"> this is my ict portfolio containing my recorded activities,<br>
+ things about me, and a reflection on this quarter!
+</p>
+<ol type="I" style="color:cyan; font-family:Garamond;" align="left">
+<li> Activities-Asynchronous activities and pairworks </li>
+<li> Lessons-Sample code of lessons </li>
+<li> About me-learn about the developer </li>
+<li> Quarter 1 reflection-reflection on this quarter </li>
+<h6 align="center" style="Font-align:center; color:cyan; font-size:8;"> Page 1 Homepage </h6>
+</body>
+</html>

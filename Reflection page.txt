@@ -1,0 +1,23 @@
+<html>
+<head> <title> Marinas Portfolio </title> </head>
+<body bgcolor="#000000">
+<h2 align="center" style="background-color:#333333; font-family:Impact; font-size:36; color:Cyan; text-align:center;"> <b>O--------| ICT/TLE grade 9 portfolio |--------O </h2>
+<table border="12" cellspacing="8px" bordercolor="#333333" width="1320px" height="40px" align="center" bgcolor="#000000">
+<tr bgcolor="#333333" style="font-size:24; font-family:Garamond; color:cyan;">
+<th> <a href="ICT Portfolio Homepage.html" style="color:cyan;"> <b> Home </b> </a> </th> 
+<th> <a href="About me.html" style="color:cyan;"> <b> About me </b> </a> </th> 
+<th> <b> Activities </b> </th>
+<th> <b> Lessons </b> </th>
+ </tr>
+</table>
+<h2 style="background-color:#333333; font-family:Garamond; font-size:36; color:Cyan; text-align:center;" > Reflection </h2>
+<p style="background-color:#333333; font-family:Garamond; font-size:24; color:Cyan; text-align:center;">
+
+
+
+
+
+
+
+</body>
+</html>

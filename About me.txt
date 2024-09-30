@@ -1,0 +1,15 @@
+<html>
+<head> <title> Marinas Portfolio </title> </head>
+<body bgcolor="#000000">
+<h6> e </h6>
+<h1 align="center" style="background-color:#333333; font-family:Impact; font-size:36; color:Cyan; text-align:center;"> <b>O--------| ICT/TLE grade 9 portfolio |--------O </h1>
+<table border="12" cellspacing="8px" bordercolor="#333333" width="1320px" height="80px" align="center" bgcolor="#000000">
+<tr bgcolor="#333333" style="font-size:24; font-family:Garamond; color:cyan;">
+<th> <b> Activities </b> </th> 
+<th> <b> About me </b> </th> 
+<th> <b> Reflection </b> </th>
+ </tr>
+</table>
+
+</body>
+</html>
